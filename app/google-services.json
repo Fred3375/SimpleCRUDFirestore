@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322125554802",
+    "project_id": "notes-firestore-69af7",
+    "storage_bucket": "notes-firestore-69af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322125554802:android:4d7d18260630faad78ceeb",
+        "android_client_info": {
+          "package_name": "com.dam.simplecrudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322125554802-67psiekn3h2l2cg15vma20fj3aqq7eas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApIvmxquNUl0TgJ_CjqvnZmjzv8hU5MfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322125554802-67psiekn3h2l2cg15vma20fj3aqq7eas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
